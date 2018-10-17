@@ -10,6 +10,7 @@
 * Qian Cheng
 * Piotr Fryzlewicz
 * Kostas Kalogeropoulos
+* Kostas Kardaras
 * Konstantin Kutzkov
 * Clifford Lam
 * Yirui Liu
