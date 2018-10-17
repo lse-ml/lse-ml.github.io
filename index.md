@@ -9,6 +9,7 @@
 * Yining Chen
 * Qian Cheng
 * Piotr Fryzlewicz
+* Wonbong Jang
 * Kostas Kalogeropoulos
 * Kostas Kardaras
 * Konstantin Kutzkov
@@ -19,6 +20,7 @@
 * Milan Vojnovic
 * Weiguan Wang
 * Xinghao Qiao
+* Yiliu Wang
 * Tianlin Xu
 * Qiwei Yao
 * Yianlin Yi
