@@ -1,3 +1,5 @@
+![Theory-of-ML](theory-of-ml.jpg)
+
 # Theory of ML Study Group
 
 ## Reading group sessions
