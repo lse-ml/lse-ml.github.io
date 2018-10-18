@@ -48,7 +48,7 @@ To be filled in sooner the date
 * Christine Yuen
 * Kaifang Zhou
 
-## List of Proposed papers (in no particular order)
+## List of papers (in no particular order)
 
 * Arora, Li, Liang, Ma, and Risteski, [A Latent Variable Model Approach to PMI-based Word Embeddings](https://transacl.org/ojs/index.php/tacl/article/view/742), ACL 2016 (KK)
    * Levy and Goldberg, [Neural Word Embedding
