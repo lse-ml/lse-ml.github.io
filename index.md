@@ -1,4 +1,4 @@
-![Theory-of-ML](theory-of-ml.jpg)
+![LSE](lse-logo.jpg)
 
 # Theory of ML Study Group
 
