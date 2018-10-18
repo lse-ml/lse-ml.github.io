@@ -6,7 +6,7 @@
 
 ### Michaelmans Term
 
-The reading group sessions take place every second **Tuesday, 15:00-16:30**.
+The reading group sessions take place every second **Tuesday, 15:00-16:30**, Leverhulme library, Department of Statistics, 6th Floor, Columbia House.
 
 | # | Date                      | Topic                                                             | Discussion lead |
 |---|---------------------------|-------------------------------------------------------------------|-----------------|
