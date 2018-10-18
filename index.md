@@ -1,6 +1,6 @@
 ![LSE](lse-logo.jpg)
 
-# **Theory of ML** Study Group
+# *Theory of ML* Study Group
 
 ## Reading group schedule
 
