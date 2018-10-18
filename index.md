@@ -2,7 +2,7 @@
 
 # `Theory of ML` Study Group
 
-## Reading group schedule
+## Meeting schedule
 
 ### Michaelmans Term
 
