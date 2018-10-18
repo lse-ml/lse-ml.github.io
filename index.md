@@ -37,9 +37,9 @@ To be filled in sooner the date
 * Yirui Liu
 * Zhenming Liu
 * Jose-Manuel Pedraza-Ramirez
+* Xinghao Qiao
 * Milan Vojnovic
 * Weiguan Wang
-* Xinghao Qiao
 * Yiliu Wang
 * Tianlin Xu
 * Qiwei Yao
