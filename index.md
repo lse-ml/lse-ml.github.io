@@ -44,7 +44,6 @@ To be filled in sooner the date
 * Tianlin Xu
 * Qiwei Yao
 * Jialin Yi
-* Yianlin Yi
 * Christine Yuen
 * Kaifang Zhou
 
