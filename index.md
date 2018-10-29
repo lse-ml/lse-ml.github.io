@@ -50,6 +50,11 @@ To be filled in sooner the date
 
 ## List of papers (in no particular order)
 
+* Optimal transportation and generative models (BA)
+   * Lei et al, [A Geometric View of Optimal Transportation and Generative Model](https://arxiv.org/abs/1710.05488), 2017
+   * Genevay, Peyre, and Cuturi, [GAN and VAE from an Optimal Transport Point of View](https://arxiv.org/abs/1706.01807), 2017
+   * Guo et al, [Relaxed Wasserstein with Applications to GANs](https://arxiv.org/abs/1705.07164), 2018
+
 * Kingma and Welling, [Auto-encoding Variational Bayes](https://arxiv.org/abs/1312.6114), ICLR 2014 (WJ)
 
 * Arora, Li, Liang, Ma, and Risteski, [A Latent Variable Model Approach to PMI-based Word Embeddings](https://transacl.org/ojs/index.php/tacl/article/view/742), ACL 2016 (KK)
