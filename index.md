@@ -15,11 +15,21 @@ The reading group sessions take place every second **Tuesday, 15:00-16:30**, Lev
 | 3 | 30th Oct, 2018        |  [A Latent Variable Model Approach to PMI-based Word Embeddings](https://transacl.org/ojs/index.php/tacl/article/view/742), Arora, Li, Liang, Ma, and Risteski, ACL 2016                                                                                  | Konstantin Kutzkov    |
 | 4 | 13th Nov, 2018       |  [Generative Adversarial Nets](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), GoodFellow et al, NIPS, 2014                                                             | Tianlin Xu          |
 | 5 | 27th Nov, 2018       |  [Hashing-Based-Estimators for Kernel Density in High Dimensions](http://ieee-focs.org/FOCS-2017-Papers/3464b032.pdf), Charikar and Siminelakis, FOCS, 2017                                                                | Zhenming Liu        |
-| 6 | 11th Dec, 2018       | . | . |
-
+| 6 | 11th Dec, 2018       | Kingma and Welling, [Auto-encoding Variational Bayes](https://arxiv.org/abs/1312.6114) | Wonbong Jang |
 ### Lent Term
 
-To be filled in sooner the date
+| # | Date                      | Topic                                                             | Discussion lead |
+|---|---------------------------|-------------------------------------------------------------------|-----------------|
+| 1 | TBA         |  Lin, Tengmark and Rolinck, [
+Why does Deep and Cheap Learning Work so Well?](https://arxiv.org/abs/1608.08225), 2016 (MB)                                                | Matteo Barigozzi   |
+| 2 | TBA        |  Polson and Sokolov, [Deep Learning: A Bayesian Perspective](https://projecteuclid.org/euclid.ba/1510801992), Bayesian Analysis, 2017                                                         | Kostas Kalogeropoulos |
+| 3 | TBA        |  Ranganath and Blei, [Correlated Random Measures](https://www.tandfonline.com/doi/full/10.1080/01621459.2016.1260468), JASA, 2018                                                                                  | Xinghao Qiao    |
+| 4 | TBA       |  Sirignano and Spiliopoulos, [Mean Field Analysis of Neural Networks](https://arxiv.org/abs/1805.01053), 2018                                                             | Luciano Campi          |
+| 5 | TBA       |  Optimal transportation and generative models                                                                | Beatrice Acciaio        |
+| 6 | TBA       | Muandet et al, [Kernel and Mean Embedding of Distributions: A Review and Beyond](https://arxiv.org/abs/1605.09522), Foundations and Trends in Machine Learning, 2017 | Wicher Bergsma |
+
+
+
 
 ## Members
 
