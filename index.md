@@ -37,6 +37,7 @@ To be filled in sooner the date
 * Yirui Liu
 * Zhenming Liu
 * Jose-Manuel Pedraza-Ramirez
+* Filippo Pellegrino
 * Xinghao Qiao
 * Milan Vojnovic
 * Weiguan Wang
@@ -48,6 +49,8 @@ To be filled in sooner the date
 * Kaifang Zhou
 
 ## List of papers (in no particular order)
+
+* Kingma and Welling, [Auto-encoding Variational Bayes](https://arxiv.org/abs/1312.6114), ICLR 2014 (WJ)
 
 * Arora, Li, Liang, Ma, and Risteski, [A Latent Variable Model Approach to PMI-based Word Embeddings](https://transacl.org/ojs/index.php/tacl/article/view/742), ACL 2016 (KK)
    * Levy and Goldberg, [Neural Word Embedding
