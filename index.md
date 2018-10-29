@@ -15,6 +15,7 @@ The reading group sessions take place every second **Tuesday, 15:00-16:30**, Lev
 | 3 | 30th Oct, 2018        |  [A Latent Variable Model Approach to PMI-based Word Embeddings](https://transacl.org/ojs/index.php/tacl/article/view/742), Arora, Li, Liang, Ma, and Risteski, ACL 2016                                                                                  | Konstantin Kutzkov    |
 | 4 | 13th Nov, 2018       |  [Generative Adversarial Nets](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), GoodFellow et al, NIPS, 2014                                                             | Tianlin Xu          |
 | 5 | 27th Nov, 2018       |  [Hashing-Based-Estimators for Kernel Density in High Dimensions](http://ieee-focs.org/FOCS-2017-Papers/3464b032.pdf), Charikar and Siminelakis, FOCS, 2017                                                                | Zhenming Liu        |
+| 6 | 11th Dec, 2018       | . | . |
 
 ### Lent Term
 
