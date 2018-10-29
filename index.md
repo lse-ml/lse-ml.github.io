@@ -20,8 +20,7 @@ The reading group sessions take place every second **Tuesday, 15:00-16:30**, Lev
 
 | # | Date                      | Topic                                                             | Discussion lead |
 |---|---------------------------|-------------------------------------------------------------------|-----------------|
-| 1 | TBA         |  Lin, Tengmark and Rolinck, [
-Why does Deep and Cheap Learning Work so Well?](https://arxiv.org/abs/1608.08225), 2016 (MB)                                                | Matteo Barigozzi   |
+| 1 | TBA         |  Lin, Tengmark and Rolinck, [Why does Deep and Cheap Learning Work so Well?](https://arxiv.org/abs/1608.08225), 2016 (MB)                                                | Matteo Barigozzi   |
 | 2 | TBA        |  Polson and Sokolov, [Deep Learning: A Bayesian Perspective](https://projecteuclid.org/euclid.ba/1510801992), Bayesian Analysis, 2017                                                         | Kostas Kalogeropoulos |
 | 3 | TBA        |  Ranganath and Blei, [Correlated Random Measures](https://www.tandfonline.com/doi/full/10.1080/01621459.2016.1260468), JASA, 2018                                                                                  | Xinghao Qiao    |
 | 4 | TBA       |  Sirignano and Spiliopoulos, [Mean Field Analysis of Neural Networks](https://arxiv.org/abs/1805.01053), 2018                                                             | Luciano Campi          |
