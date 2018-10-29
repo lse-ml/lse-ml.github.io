@@ -17,7 +17,7 @@ The reading group sessions take place every second **Tuesday, 15:00-16:30**, Lev
 | 5 | 27th Nov, 2018       |  [Hashing-Based-Estimators for Kernel Density in High Dimensions](http://ieee-focs.org/FOCS-2017-Papers/3464b032.pdf), Charikar and Siminelakis, FOCS, 2017                                                                | Zhenming Liu        |
 | 6 | 11th Dec, 2018       | Kingma and Welling, [Auto-encoding Variational Bayes](https://arxiv.org/abs/1312.6114) | Wonbong Jang |
 
-### Lent Term (Tentative schedule)
+### Lent Term (tentative schedule)
 
 | # | Date                      | Topic                                                             | Discussion lead |
 |---|---------------------------|-------------------------------------------------------------------|-----------------|
