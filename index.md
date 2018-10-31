@@ -43,6 +43,7 @@ The reading group sessions take place every second **Tuesday, 15:00-16:30**, Lev
 * Wonbong Jang
 * Kostas Kalogeropoulos
 * Kostas Kardaras
+* Anica Kostic
 * Konstantin Kutzkov
 * Clifford Lam
 * Yirui Liu
