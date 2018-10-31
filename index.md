@@ -38,6 +38,7 @@ The reading group sessions take place every second **Tuesday, 15:00-16:30**, Lev
 * Wicher Bergsma
 * Luciano Campi
 * Yining Chen
+* Yunxiao Chen
 * Qian Cheng
 * Piotr Fryzlewicz
 * Wonbong Jang
