@@ -24,9 +24,9 @@ The reading group sessions take place every second **Tuesday, 15:00-16:30**, Lev
 | 1 | 15th Jan, 2019    |     Optimal transportation and generative models- Lei et al, [A Geometric View of Optimal Transportation and Generative Model](https://arxiv.org/abs/1710.05488), 2017; Genevay, Peyre, and Cuturi, [GAN and VAE from an Optimal Transport Point of View](https://arxiv.org/abs/1706.01807), 2017; Guo et al, [Relaxed Wasserstein with Applications to GANs](https://arxiv.org/abs/1705.07164), 2018                                     | Beatrice Acciaio        |
 | 2 | 29th Jan, 2019        |  [Deep Learning: A Bayesian Perspective](https://projecteuclid.org/euclid.ba/1510801992), Polson and Sokolov, Bayesian Analysis, 2017                                                         | Kostas Kalogeropoulos |
 | 3 | 12th Feb, 2019        | [Local Linear Forests](https://arxiv.org/abs/1807.11408), Friedberg, Tibshirani, Athey, & Wager arXiv, 2018                                                                                   | Filippo Pellegrino  |
-| 4 | 26h Feb, 2019       |  [Deep Reinforcement Learning: An Overview](https://arxiv.org/pdf/1701.07274.pdf), 2017; Mnih et al, [Human Level Control through Deep Reinforcement Learning](https://www.nature.com/articles/nature14236), Li,  Nature 518:529-533, 2015                                                             | Yining Chen          |
-| 5 | 12th Mar, 2019       |  [Correlated Random Measures](https://www.tandfonline.com/doi/full/10.1080/01621459.2016.1260468), Ranganath and Blei JASA, 2016 | Yirui Liu |
-| 6 | 26th Mar, 2019       | [Global Convergence of Policy Gradient Methods for the Linear Quadratic Regulator](http://proceedings.mlr.press/v80/fazel18a/fazel18a.pdf), Fazel, Ge, Kakade and Mesbahi, ICML 2018 | Jialin Yi |
+| 4 | 26h Feb, 2019       |  [Deep Reinforcement Learning: An Overview](https://arxiv.org/pdf/1701.07274.pdf), Li, 2017; [Human Level Control through Deep Reinforcement Learning](https://www.nature.com/articles/nature14236), Mnih et al,  Nature 518:529-533, 2015                                                             | Yining Chen          |
+| 5 | 12th Mar, 2019       | [Global Convergence of Policy Gradient Methods for the Linear Quadratic Regulator](http://proceedings.mlr.press/v80/fazel18a/fazel18a.pdf), Fazel, Ge, Kakade and Mesbahi, ICML 2018 | Jialin Yi |
+| 6 | 26th Mar, 2019       |  [Correlated Random Measures](https://www.tandfonline.com/doi/full/10.1080/01621459.2016.1260468), Ranganath and Blei JASA, 2016 | Yirui Liu |
 
 
 
