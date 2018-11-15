@@ -21,12 +21,12 @@ The reading group sessions take place every second **Tuesday, 15:00-16:30**, Lev
 
 | # | Date                      | Topic                                                             | Discussion lead |
 |---|---------------------------|-------------------------------------------------------------------|-----------------|
-| 1 | TBA         |  Lin, Tengmark and Rolinck, [Why does Deep and Cheap Learning Work so Well?](https://arxiv.org/abs/1608.08225), 2016                                                | Matteo Barigozzi   |
-| 2 | TBA        |  Polson and Sokolov, [Deep Learning: A Bayesian Perspective](https://projecteuclid.org/euclid.ba/1510801992), Bayesian Analysis, 2017                                                         | Kostas Kalogeropoulos |
-| 3 | TBA        |  Ranganath and Blei, [Correlated Random Measures](https://www.tandfonline.com/doi/full/10.1080/01621459.2016.1260468), JASA, 2018                                                                                  | Xinghao Qiao    |
-| 4 | TBA       |  Sirignano and Spiliopoulos, [Mean Field Analysis of Neural Networks](https://arxiv.org/abs/1805.01053), 2018                                                             | Luciano Campi          |
-| 5 | TBA       |  Optimal transportation and generative models                                                                | Beatrice Acciaio        |
-| 6 | TBA       | Muandet et al, [Kernel and Mean Embedding of Distributions: A Review and Beyond](https://arxiv.org/abs/1605.09522), Foundations and Trends in Machine Learning, 2017 | Wicher Bergsma |
+| 1 | 15th Jan, 2019         Optimal transportation and generative models                                                                | Beatrice Acciaio        |
+| 2 | 29th Jan, 2019        |  Polson and Sokolov, [Deep Learning: A Bayesian Perspective](https://projecteuclid.org/euclid.ba/1510801992), Bayesian Analysis, 2017                                                         | Kostas Kalogeropoulos |
+| 3 | 12th Feb, 2019        | Friedberg, Tibshirani, Athey, & Wager, [Local Linear Forests](https://arxiv.org/abs/1807.11408) arXiv preprint arXiv:1807.11408, 2018                                                                                   | Filippo Pellegrino  |
+| 4 | 26h Feb, 2019       |  Sirignano and Spiliopoulos, [Mean Field Analysis of Neural Networks](https://arxiv.org/abs/1805.01053), 2018                                                             | Luciano Campi          |
+| 5 | 12th Mar, 2019       |  Ranganath and Blei, [Correlated Random Measures](https://www.tandfonline.com/doi/full/10.1080/01621459.2016.1260468), JASA, 2016 | Xinghao Qiao |
+| 6 | 26ht Mar, 2019       | Fazel, Ge, Kakade, and Mesbahi, [Global Convergence of Policy Gradient Methods for the Linear Quadratic Regulator](http://proceedings.mlr.press/v80/fazel18a/fazel18a.pdf), ICML 2018 | Jialin Yi |
 
 
 
