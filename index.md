@@ -25,7 +25,7 @@ The reading group sessions take place every second **Tuesday, 15:00-16:30**, Lev
 | 2 | 29th Jan, 2019        |  Polson and Sokolov, [Deep Learning: A Bayesian Perspective](https://projecteuclid.org/euclid.ba/1510801992), Bayesian Analysis, 2017                                                         | Kostas Kalogeropoulos |
 | 3 | 12th Feb, 2019        | Friedberg, Tibshirani, Athey, & Wager, [Local Linear Forests](https://arxiv.org/abs/1807.11408) arXiv, 2018                                                                                   | Filippo Pellegrino  |
 | 4 | 26h Feb, 2019       |  Li, [Deep Reinforcement Learning: An Overview](https://arxiv.org/pdf/1701.07274.pdf), 2017; Mnih et al, [Human Level Control through Deep Reinforcement Learning](https://www.nature.com/articles/nature14236), Nature 518:529-533, 2015                                                             | Yining Chen          |
-| 5 | 12th Mar, 2019       |  Ranganath and Blei, [Correlated Random Measures](https://www.tandfonline.com/doi/full/10.1080/01621459.2016.1260468), JASA, 2016 | Xinghao Qiao |
+| 5 | 12th Mar, 2019       |  Ranganath and Blei, [Correlated Random Measures](https://www.tandfonline.com/doi/full/10.1080/01621459.2016.1260468), JASA, 2016 | Yirui Liu |
 | 6 | 26th Mar, 2019       | Fazel, Ge, Kakade, and Mesbahi, [Global Convergence of Policy Gradient Methods for the Linear Quadratic Regulator](http://proceedings.mlr.press/v80/fazel18a/fazel18a.pdf), ICML 2018 | Jialin Yi |
 
 
