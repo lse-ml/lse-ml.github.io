@@ -63,9 +63,9 @@ The reading group sessions take place every second **Tuesday, 15:00-16:30**, Lev
 
 ## List of papers (in no particular order)
 
-* Fazel, Ge, Kakade, and Mesbahi, [Global Convergence of Policy Gradient Methods for the Linear Quadratic Regulator](http://proceedings.mlr.press/v80/fazel18a/fazel18a.pdf), ICML 2018
+* Fazel, Ge, Kakade, and Mesbahi, [Global Convergence of Policy Gradient Methods for the Linear Quadratic Regulator](http://proceedings.mlr.press/v80/fazel18a/fazel18a.pdf), ICML 2018 (JY)
 
-* Friedberg, Tibshirani, Athey, & Wager, [Local Linear Forests](https://arxiv.org/abs/1807.11408) arXiv, 2018 [FP]
+* Friedberg, Tibshirani, Athey, & Wager, [Local Linear Forests](https://arxiv.org/abs/1807.11408) arXiv, 2018 (FP)
 
 * Optimal transportation and generative models (BA)
    * Lei et al, [A Geometric View of Optimal Transportation and Generative Model](https://arxiv.org/abs/1710.05488), 2017
