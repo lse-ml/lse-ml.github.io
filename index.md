@@ -21,7 +21,7 @@ The reading group sessions take place every second **Tuesday, 15:00-16:30**, Lev
 
 | # | Date                      | Topic                                                             | Discussion lead |
 |---|---------------------------|-------------------------------------------------------------------|-----------------|
-| 1 | 15th Jan, 2019         Optimal transportation and generative models                                                                | Beatrice Acciaio        |
+| 1 | 15th Jan, 2019    |     Optimal transportation and generative models                                                                | Beatrice Acciaio        |
 | 2 | 29th Jan, 2019        |  Polson and Sokolov, [Deep Learning: A Bayesian Perspective](https://projecteuclid.org/euclid.ba/1510801992), Bayesian Analysis, 2017                                                         | Kostas Kalogeropoulos |
 | 3 | 12th Feb, 2019        | Friedberg, Tibshirani, Athey, & Wager, [Local Linear Forests](https://arxiv.org/abs/1807.11408) arXiv preprint arXiv:1807.11408, 2018                                                                                   | Filippo Pellegrino  |
 | 4 | 26h Feb, 2019       |  Sirignano and Spiliopoulos, [Mean Field Analysis of Neural Networks](https://arxiv.org/abs/1805.01053), 2018                                                             | Luciano Campi          |
