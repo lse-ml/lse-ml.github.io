@@ -23,7 +23,7 @@ The reading group sessions take place every second **Tuesday, 15:00-16:30**, Lev
 |---|---------------------------|-------------------------------------------------------------------|-----------------|
 | 1 | 15th Jan, 2019    |     Optimal transportation and generative models                                                                | Beatrice Acciaio        |
 | 2 | 29th Jan, 2019        |  Polson and Sokolov, [Deep Learning: A Bayesian Perspective](https://projecteuclid.org/euclid.ba/1510801992), Bayesian Analysis, 2017                                                         | Kostas Kalogeropoulos |
-| 3 | 12th Feb, 2019        | Friedberg, Tibshirani, Athey, & Wager, [Local Linear Forests](https://arxiv.org/abs/1807.11408) arXiv preprint arXiv:1807.11408, 2018                                                                                   | Filippo Pellegrino  |
+| 3 | 12th Feb, 2019        | Friedberg, Tibshirani, Athey, & Wager, [Local Linear Forests](https://arxiv.org/abs/1807.11408) arXiv, 2018                                                                                   | Filippo Pellegrino  |
 | 4 | 26h Feb, 2019       |  Sirignano and Spiliopoulos, [Mean Field Analysis of Neural Networks](https://arxiv.org/abs/1805.01053), 2018                                                             | Luciano Campi          |
 | 5 | 12th Mar, 2019       |  Ranganath and Blei, [Correlated Random Measures](https://www.tandfonline.com/doi/full/10.1080/01621459.2016.1260468), JASA, 2016 | Xinghao Qiao |
 | 6 | 26ht Mar, 2019       | Fazel, Ge, Kakade, and Mesbahi, [Global Convergence of Policy Gradient Methods for the Linear Quadratic Regulator](http://proceedings.mlr.press/v80/fazel18a/fazel18a.pdf), ICML 2018 | Jialin Yi |
@@ -65,7 +65,7 @@ The reading group sessions take place every second **Tuesday, 15:00-16:30**, Lev
 
 * Fazel, Ge, Kakade, and Mesbahi, [Global Convergence of Policy Gradient Methods for the Linear Quadratic Regulator](http://proceedings.mlr.press/v80/fazel18a/fazel18a.pdf), ICML 2018
 
-* Friedberg, Tibshirani, Athey, & Wager, [Local Linear Forests](https://arxiv.org/abs/1807.11408) arXiv preprint arXiv:1807.11408, 2018 [FP]
+* Friedberg, Tibshirani, Athey, & Wager, [Local Linear Forests](https://arxiv.org/abs/1807.11408) arXiv, 2018 [FP]
 
 * Optimal transportation and generative models (BA)
    * Lei et al, [A Geometric View of Optimal Transportation and Generative Model](https://arxiv.org/abs/1710.05488), 2017
