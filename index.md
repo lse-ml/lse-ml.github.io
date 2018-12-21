@@ -21,11 +21,11 @@ The reading group sessions take place every second **Tuesday, 15:00-16:30**, Lev
 
 | # | Date                      | Topic                                                             | Discussion lead |
 |---|---------------------------|-------------------------------------------------------------------|-----------------|
-| 1 | 15th Jan, 2019    | [A General Theory for Large-Scale Curve Time Series via Functional Stability Measure](https://arxiv.org/abs/1812.07619), Guo and Qiao, Arxiv 2018                                     | Xinghao Qiao        |
+| 1 | 15th Jan, 2019    | [A General Theory for Large-Scale Curve Time Series via Functional Stability Measure](https://arxiv.org/abs/1812.07619), Guo and Qiao, arXiv 2018                                     | Xinghao Qiao        |
 | 2 | 29th Jan, 2019        |  [Deep Learning: A Bayesian Perspective](https://projecteuclid.org/euclid.ba/1510801992), Polson and Sokolov, Bayesian Analysis, 2017                                                         | Kostas Kalogeropoulos |
 | 3 | 12th Feb, 2019        | [Local Linear Forests](https://arxiv.org/abs/1807.11408), Friedberg, Tibshirani, Athey, & Wager arXiv, 2018                                                                                   | Filippo Pellegrino  |
 | 4 | 26h Feb, 2019         | [Deep Reinforcement Learning: An Overview](https://arxiv.org/pdf/1701.07274.pdf), Li, 2017; [Human Level Control through Deep Reinforcement Learning](https://www.nature.com/articles/nature14236), Mnih et al,  Nature 518:529-533, 2015                 | Yining Chen          |
-| 5 | 12th Mar, 2019        | [Global Convergence of Policy Gradient Methods for the Linear Quadratic Regulator](http://proceedings.mlr.press/v80/fazel18a/fazel18a.pdf), Fazel, Ge, Kakade and Mesbahi, ICML 2018 | Jialin Yi |
+| 5 | 12th Mar, 2019        | [Global Convergence of Policy Gradient Methods for the Linear Quadratic Regulator](http://proceedings.mlr.press/v80/fazel18a/fazel18a.pdf), Fazel, Ge, Kakade and Mesbahi, ICML, 2018 | Jialin Yi |
 | 6 | 26th Mar, 2019        | [Correlated Random Measures](https://www.tandfonline.com/doi/full/10.1080/01621459.2016.1260468), Ranganath and Blei JASA, 2016 | Yirui Liu |
 
 
