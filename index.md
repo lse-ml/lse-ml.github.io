@@ -26,7 +26,7 @@ The reading group sessions take place every second **Tuesday, 15:00-16:30**, Lev
 | 3 | 12th Feb, 2019        | [Local Linear Forests](https://arxiv.org/abs/1807.11408), Friedberg, Tibshirani, Athey, & Wager arXiv, 2018                                                                                   | Filippo Pellegrino  |
 | 4 | 26h Feb, 2019         | [Deep Reinforcement Learning: An Overview](https://arxiv.org/pdf/1701.07274.pdf), Li, 2017; [Human Level Control through Deep Reinforcement Learning](https://www.nature.com/articles/nature14236), Mnih et al,  Nature 518:529-533, 2015                 | Yining Chen          |
 | 5 | 12th Mar, 2019        | [Global Convergence of Policy Gradient Methods for the Linear Quadratic Regulator](http://proceedings.mlr.press/v80/fazel18a/fazel18a.pdf), Fazel, Ge, Kakade and Mesbahi, ICML, 2018 | Jialin Yi |
-| 6 | 26th Mar, 2019        | [Correlated Random Measures](https://www.tandfonline.com/doi/full/10.1080/01621459.2016.1260468), Ranganath and Blei JASA, 2016 | Yirui Liu |
+| 6 | 26th Mar, 2019        | [Variational Inference: A Review for Statisticians](https://arxiv.org/abs/1601.00670), Blei, Kucukelbir and McAuliffe, 2016; [Advances in Variational Inference](https://arxiv.org/abs/1711.05597), Zhang et al, 2017 | Yirui Liu |
 
 
 
